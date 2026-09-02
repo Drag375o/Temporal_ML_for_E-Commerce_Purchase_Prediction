@@ -1,5 +1,3 @@
-# Predicting Future E-Commerce Purchasing Behavior from Historical Customer Activity
-or 
 # Predicting Future E-Commerce Purchase Behaviour
 A leakage-audited temporal machine learning study of 1.85M Amazon purchases
 or 
