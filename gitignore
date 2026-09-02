@@ -1,0 +1,16 @@
+# Data — do not commit; see data/README.md
+data/raw/
+data/*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
