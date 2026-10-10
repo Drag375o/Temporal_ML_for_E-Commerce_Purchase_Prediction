@@ -30,8 +30,8 @@ on 1.85M real Amazon purchase records from 5,027 U.S. consumers.
 ## Overview
 
 E-commerce retention teams need to know who is about to go quiet. This project
-tests whether that is predictable from purchase history alone, and — the part
-most projects skip — whether knowing a customer's demographics adds anything
+tests whether that is predictable from purchase history alone, and the part
+most projects skip is whether knowing a customer's demographics adds anything
 once you already know how they shop.
 
 It is framed as a **temporal prediction problem**, not a generic
